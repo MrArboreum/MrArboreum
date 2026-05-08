@@ -4,7 +4,9 @@
 - 💞️ I’m looking to collaborate on DeFi, Web3 and Fintech
 - 📫 How to reach me juanluisreyesr@gmail.com
 - 😄 Pronouns: Juan
-- ⚡ Fun fact: I'm a lawyer in Peru
+- ⚡ Fun fact: Private Client Lawyer in Peru
+- www.linkedin.com/in/juanluisreyesr
+- (+51) 977 444 350
 
 <!---
 MrArboreum/MrArboreum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
